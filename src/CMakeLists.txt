@@ -63,6 +63,12 @@ add_library(librw
     d3d/xboxskin.cpp
     d3d/xboxvfmt.cpp
 
+    bgfx/bgfx.cpp
+    bgfx/bgfxdevice.cpp
+    bgfx/bgfxrender.cpp
+    bgfx/rwbgfx.h
+    bgfx/rwbgfximpl.h
+
     gl/gl3.cpp
     gl/gl3device.cpp
     gl/gl3immed.cpp
